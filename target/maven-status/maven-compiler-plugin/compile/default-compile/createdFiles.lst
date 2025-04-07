@@ -1,4 +1,4 @@
 com\mycompany\gestionvehiculos\GestionVehiculos.class
-com\mycompany\gestionvehiculos\Motocicleta.class
-com\mycompany\gestionvehiculos\Automovil.class
-com\mycompany\gestionvehiculos\Vehiculo.class
+com\mycompany\gestionvehiculos\automovil\Automovil.class
+com\mycompany\gestionvehiculos\motocicleta\Motocicleta.class
+com\mycompany\gestionvehiculos\vehiculo\Vehiculo.class

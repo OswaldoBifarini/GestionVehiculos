@@ -1,16 +1,8 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
- */
 package com.mycompany.gestionvehiculos.automovil;
 
 import com.mycompany.gestionvehiculos.vehiculo.Vehiculo;
 
-/**
- *
- * @author DELL
- */
-class Automovil extends Vehiculo {
+public class Automovil extends Vehiculo {
 
     private int numPuertas;
 
